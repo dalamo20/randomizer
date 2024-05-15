@@ -1,5 +1,5 @@
 # Randomizer
-- The Randomizer app mimics dice and generates random numbers on rolls.
+- The Randomizer is an Android app that mimics dice and generates random numbers on rolls.
 
 ## Description
 - This simple Android application allows users to simulate rolling dice by generating random numbers within a specified range. Users can adjust the range of the random numbers by using a slider and then press a button to roll and display the random numbers.
