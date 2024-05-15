@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Randomizer</string>
+    <string name="roll_button_text">ROLL</string>
+</resources>
